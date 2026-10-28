@@ -1,0 +1,8 @@
+{
+  "name": "Aegis Strategic OSINT & Simulation Workbench",
+  "description": "Analyst software system for tracking, correlating, and simulating publicly known open-source data on global military assets, deployments, and theater events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
